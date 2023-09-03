@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/E-comm/static/css/main.5e3b97c8.css",
+    "main.js": "/E-comm/static/js/main.3e12d064.js",
+    "static/media/hero_img.png": "/E-comm/static/media/hero_img.eecb82381e30a2a39610.png",
+    "static/media/subscribe.png": "/E-comm/static/media/subscribe.dd670b4ed5a93b988874.png",
+    "static/media/banner1.png": "/E-comm/static/media/banner1.2c70787b9f7e7da0fb09.png",
+    "static/media/banner3.png": "/E-comm/static/media/banner3.0fc0ea0746c34a5815ef.png",
+    "static/media/select4.png": "/E-comm/static/media/select4.7e118151b3bb68715865.png",
+    "static/media/select2.png": "/E-comm/static/media/select2.894e15cff9d594afc4d4.png",
+    "static/media/banner2.png": "/E-comm/static/media/banner2.4e3e2b7dab13c2c73517.png",
+    "static/media/select1.png": "/E-comm/static/media/select1.6e3d018e6bc51eb2cd50.png",
+    "static/media/select3.png": "/E-comm/static/media/select3.4a9aa6b7bbe824111425.png",
+    "index.html": "/E-comm/index.html",
+    "main.5e3b97c8.css.map": "/E-comm/static/css/main.5e3b97c8.css.map",
+    "main.3e12d064.js.map": "/E-comm/static/js/main.3e12d064.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e3b97c8.css",
+    "static/js/main.3e12d064.js"
+  ]
+}
